@@ -46,6 +46,7 @@ bruh
 
 This text is ==hilighted==!
 
+OMG EMOJI!!! :joy:
 
 Subs~script~text
 
